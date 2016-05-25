@@ -7,12 +7,12 @@
 	 left: 0;
 	 top: 0;
 	 width: 100%;
-	 height: 100vh;
+	 height: 100%;
 	 }
 	 #pantalla {
 		 float: left;
 		 width: 100%;
-		 height: 20%;
+		 height: 15%;
 		 background: #F30;
 		 color: #0FF;
 		 font-size: 4em;/*em unidad de medida que se utiliza el tamaño de impresion es decir 4 veces el tamaño de la medida y garantiza el diseño*/
@@ -32,7 +32,7 @@
 	 background:#39F;
 	 width: 14.28571428571429%;
 	 }
-	 .textonota {
+	 .textnota {
 		 position:relative;
 		 top: 80%;
 		 text-align: center;
