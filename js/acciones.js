@@ -14,7 +14,7 @@ audio.preloadFX('sol', 'audio/G.mp3', function(msg){}, function(msg){ alert( 'Er
 audio.preloadFX('la', 'audio/A.mp3', function(msg){}, function(msg){ alert( 'Error: ' + msg ); });
 audio.preloadFX('si', 'audio/B.mp3', function(msg){}, function(msg){ alert( 'Error: ' + msg ); });
 
-$('.nota').bind('tochstart' , function(){
+$('.nota').bind('tochstart' ,function(){
 	$(this).addClass('tocada');
 	audio.play($(this).attr('id'));
 }).bind('touchend', function(){
