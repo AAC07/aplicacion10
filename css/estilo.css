@@ -13,8 +13,8 @@
 		 float: left;
 		 width: 100%;
 		 height: 20%;
-		 background: #B3FBBD;
-		 color: #fff;
+		 background: #F30;
+		 color: #0FF;
 		 font-size: 4em;/*em unidad de medida que se utiliza el tamaño de impresion es decir 4 veces el tamaño de la medida y garantiza el diseño*/
 		 font-weight: bold;
 		 font-family: "Times New Roman", Times, serif;
@@ -28,8 +28,8 @@
 	 position: relative;
 	 float: left;
 	 height: 90%;
-	 outline: #3F3 solid 1px;/* linea de contorno */
-	 background: #F5FD9F;
+	 outline: #009 solid 1px;/* linea de contorno */
+	 background:#39F;
 	 width: 14.28571428571429%;
 	 }
 	 .textonota {
@@ -40,7 +40,7 @@
 		 font-weight: bold;
 	 }
 	 .tocada {
-		 background: #3F3;
+		 background:#F90;
 		 color: #FFF;
 		 outline: #FF0 solid 1px;
 	 }
